@@ -27,7 +27,7 @@ const shodhan = {
     aiTools: ["Claude (Anthropic)", "Cursor"],
     deployment: ["Vercel"],
   },
-  launchedProjects: ["Realtime Chat App"],
+  launchedProjects: ["Realtime Chat App"],["Trivia Quiz"],
   status: "Learning, building, and exploring AI-assisted development",
   openTo: ["Internships", "Collaborations", "Full-time opportunities"],
 };
