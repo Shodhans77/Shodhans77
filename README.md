@@ -54,6 +54,19 @@ A full-stack real-time chat application with rooms, live messaging, typing indic
 
 🔗 [Live Demo](https://realtime-chat-app-lake-delta.vercel.app) &nbsp;•&nbsp; 💻 [Source Code](https://github.com/Shodhans77/realtime-chat_app)
 
+### 🎯 Trivia Quiz
+
+A fun and interactive trivia quiz web application with multiple-choice questions, instant feedback, scoring, and a clean, responsive user interface.
+
+| Layer | Technology |
+|---|---|
+| Frontend | React |
+| Build Tool | Vite |
+| Language | JavaScript / JSX |
+| Styling | CSS |
+| Deployment | Vercel |
+
+🔗 [Live Demo](https://trivia-quiz-nu.vercel.app/) • 💻 [Source Code](https://github.com/Shodhans77/trivia-quiz)
 <br/>
 
 ## 🛠️ Tech Stack
