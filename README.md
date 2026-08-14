@@ -1,37 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=230&section=header&text=SHODHAN%20S%20SHETTY&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Real-Time%20Apps&descAlignY=58&descSize=18" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6&amp;height=230&amp;section=header&amp;text=SHODHAN%20S%20SHETTY&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Real-Time%20Apps&amp;descAlignY=58&amp;descSize=18" width="100%" alt="Header Banner"/>
 
 <br/>
 
 <a href="https://github.com/Shodhans77">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Driven+by+curiosity+for+AI+%26+Software;Building+Real-Time+Full-Stack+Web+Apps;Mastering+React%2C+Node.js+%26+Python;Turning+Ideas+Into+Working+Projects" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Driven+by+curiosity+for+AI+%26+Software;Building+Real-Time+Full-Stack+Web+Apps;Mastering+React%2C+Node.js+%26+Python;Turning+Ideas+Into+Working+Projects" alt="Typing Subtitle" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Status-🟢%20Building%20%26%20Exploring-0EA5E9?style=for-the-badge&logoColor=white" alt="Status"/>
+<img src="https://img.shields.io/badge/Status-🟢%20Building%20%26%20Exploring-0EA5E9?style=for-the-badge&amp;logoColor=white" alt="Status"/>
 <a href="mailto:shodhan.s77@gmail.com">
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-1E293B?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-1E293B?style=for-the-badge&amp;logo=briefcase&amp;logoColor=white" alt="Open to Work"/>
 </a>
 <a href="https://my-portfolio-jet-nine-86.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Live-Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/>
+  <img src="https://img.shields.io/badge/Live-Portfolio-0EA5E9?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Live Portfolio"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shodhans77&label=Profile%20Views&color=0EA5E9&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Shodhans77&amp;label=Profile%20Views&amp;color=0EA5E9&amp;style=flat-square" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Shodhans77?label=Followers&style=flat-square&color=0EA5E9&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/Shodhans77?label=Followers&amp;style=flat-square&amp;color=0EA5E9&amp;logo=github" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/Shodhans77?style=flat-square&color=0EA5E9&logo=github" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/Shodhans77?style=flat-square&amp;color=0EA5E9&amp;logo=github" alt="Stars"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Tech Quote" width="90%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="Daily Tech Quote" width="90%"/>
 </div>
 
 <br/>
@@ -110,7 +110,7 @@ const shodhan = {
     <td width="50%" valign="top">
       <h3 align="center">💬 Realtime Chat App</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Repository-realtime--chat__app-0EA5E9?style=for-the-badge&logo=github" alt="Repo"/>
+        <img src="https://img.shields.io/badge/Repository-realtime--chat__app-0EA5E9?style=for-the-badge&amp;logo=github" alt="Repo"/>
       </p>
       <p>A full-stack real-time messaging application featuring dynamic rooms, instant WebSocket communication, typing indicators, and online user presence tracking.</p>
       <p>
@@ -125,7 +125,7 @@ const shodhan = {
     <td width="50%" valign="top">
       <h3 align="center">🎯 Trivia Quiz Web App</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Repository-trivia--quiz-0EA5E9?style=for-the-badge&logo=github" alt="Repo"/>
+        <img src="https://img.shields.io/badge/Repository-trivia--quiz-0EA5E9?style=for-the-badge&amp;logo=github" alt="Repo"/>
       </p>
       <p>An interactive, responsive trivia web application with dynamic category selection, automated scoring, instant feedback, and modern animations.</p>
       <p>
@@ -142,7 +142,7 @@ const shodhan = {
     <td colspan="2" valign="top">
       <h3 align="center">🌐 Personal Developer Portfolio</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Repository-my--portfolio-0EA5E9?style=for-the-badge&logo=github" alt="Repo"/>
+        <img src="https://img.shields.io/badge/Repository-my--portfolio-0EA5E9?style=for-the-badge&amp;logo=github" alt="Repo"/>
       </p>
       <p align="center">My official personal developer web showcase highlighting projects, technical skills, background, and contact details.</p>
       <p align="center">
@@ -178,7 +178,7 @@ const shodhan = {
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Socket.io-1E293B?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/Socket.io-1E293B?style=for-the-badge&amp;logo=socketdotio&amp;logoColor=white" alt="Socket.io" />
 </p>
 
 ### ☁️ Cloud, Deployment & Workflow
@@ -188,11 +188,11 @@ const shodhan = {
 
 ### 🤖 AI-Accelerated Engineering Suite
 <p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" alt="Claude"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&amp;logo=cursor&amp;logoColor=white" alt="Cursor"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Antigravity"/>
 </p>
 
 </div>
@@ -252,21 +252,21 @@ const shodhan = {
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Shodhans77&show_icons=true&theme=tokyonight&border_color=0EA5E9&title_color=38BDF8&icon_color=38BDF8&text_color=c9c9c9&bg_color=0d1117&hide_border=false" alt="GitHub Stats" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Shodhans77&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=0EA5E9&amp;title_color=38BDF8&amp;icon_color=38BDF8&amp;text_color=c9c9c9&amp;bg_color=0d1117&amp;hide_border=false" alt="GitHub Stats" height="180"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shodhans77&layout=compact&theme=tokyonight&border_color=0EA5E9&title_color=38BDF8&text_color=c9c9c9&bg_color=0d1117&hide_border=false" alt="Top Languages" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shodhans77&amp;layout=compact&amp;theme=tokyonight&amp;border_color=0EA5E9&amp;title_color=38BDF8&amp;text_color=c9c9c9&amp;bg_color=0d1117&amp;hide_border=false" alt="Top Languages" height="180"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shodhans77&theme=tokyonight&border=0EA5E9&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak Stats" width="95%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shodhans77&amp;theme=tokyonight&amp;border=0EA5E9&amp;ring=38BDF8&amp;fire=38BDF8&amp;currStreakLabel=38BDF8" alt="Streak Stats" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shodhans77&theme=tokyo-night&color=38BDF8&line=38BDF8&point=ffffff&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shodhans77&amp;theme=tokyo-night&amp;color=38BDF8&amp;line=38BDF8&amp;point=ffffff&amp;hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -277,7 +277,7 @@ const shodhan = {
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shodhans77&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shodhans77&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15&amp;column=6" alt="Trophies" />
 </div>
 
 <br/>
@@ -289,15 +289,15 @@ const shodhan = {
 <div align="center">
 
   <a href="mailto:shodhan.s77@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shodhan.s77%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-shodhan.s77%40gmail.com-0EA5E9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://my-portfolio-jet-nine-86.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-my--portfolio-1E293B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-my--portfolio-1E293B?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Shodhans77">
-    <img src="https://img.shields.io/badge/GitHub-%40Shodhans77-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%40Shodhans77-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
   </a>
 
   <br/><br/>
@@ -306,6 +306,7 @@ const shodhan = {
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6&amp;height=100&amp;section=footer" width="100%" alt="Footer Wave"/>
 
+</div>
 </div>
