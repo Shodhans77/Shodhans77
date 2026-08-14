@@ -204,7 +204,7 @@ const shodhan = {
 ## 💡 Developer Deep Dive
 
 <details>
-<summary><b>🎯 Click to expand — 2026 Roadmap & Goals</b></summary>
+<summary><b>🎯 Click to expand — 2026 Roadmap &amp; Goals</b></summary>
 <br/>
 
 - [x] **Real-time Web Apps** — Launched Socket.io Chat App & Trivia Quiz
@@ -216,7 +216,7 @@ const shodhan = {
 </details>
 
 <details>
-<summary><b>⚡ Click to expand — Fun Facts & Workflow Philosophy</b></summary>
+<summary><b>⚡ Click to expand — Fun Facts &amp; Workflow Philosophy</b></summary>
 <br/>
 
 - ☕ **Fuel**: Powered by curiosity, clean code, and tea/coffee
