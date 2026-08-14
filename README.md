@@ -309,4 +309,3 @@ const shodhan = {
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6&amp;height=100&amp;section=footer" width="100%" alt="Footer Wave"/>
 
 </div>
-</div>
