@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=230&amp;section=header&amp;text=SHODHAN%20S%20SHETTY&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Real-Time%20Apps&amp;descAlignY=58&amp;descSize=18" width="100%" alt="Header Banner">
+desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Real-Time%20Apps
 
 <br/>
 
