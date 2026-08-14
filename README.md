@@ -1,5 +1,15 @@
 <div align="center">
-desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Real-Time%20Apps
+<div align="center">
+
+<h1>SHODHAN S SHETTY</h1>
+
+<code>AI • FULL-STACK • REAL-TIME • BUILDING</code>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+Real-Time+Web+Apps;Exploring+AI+%26+LLMs;Turning+Ideas+Into+Working+Projects" alt="Typing Animation"/>
+
+</div>
 
 <br/>
 
